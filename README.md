@@ -97,10 +97,10 @@ As a Senior Full Stack Engineer on this product, I:
 
 > Internal HR dashboards are protected — screenshots show login + public-facing pages only.
 
-![Login](hrm/screenshot_1.png)
+![Login](hrm/Screenshot_1.png)
 *HRM login page — hrm.tabsap.com*
 
-![Dashboard](hrm/screenshot_2.png)
+![Dashboard](hrm/Screenshot_2.png)
 *HR dashboard overview — employee count, attendance summary, pending approvals*
 
 *Employee profile view — personal details, documents, leave balance*
