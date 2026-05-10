@@ -4,8 +4,8 @@
 
 🔗 **Live:** https://hrm.tabsap.com/
 🔒 **Application:** Login-protected (HR + employee portals)
-🏢 **Built at:** [Tabsap]
-📅 **Period:** [ 2024 — 2025]
+🏢 **Built at:** Tabsap
+📅 **Period:** 2024 — 2025
 📂 **Status:** Production · Active
 
 ---
